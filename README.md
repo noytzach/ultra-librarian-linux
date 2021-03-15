@@ -1,2 +1,8 @@
 # ultra-librarian-linux
-a linux port of ultra librarian's script for generating footprints
+A linux port of ultra librarian's AllegroV17 script for generating footprints
+
+### Usage
+```
+cd AllegroV17_2
+./ul_footprint_gen
+```
